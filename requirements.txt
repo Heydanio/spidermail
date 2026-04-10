@@ -1,0 +1,9 @@
+fastapi[standard]
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+pytest
+httpx
+requests
